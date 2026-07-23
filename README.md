@@ -6,8 +6,10 @@ tecnoguia-diplomatura/
 ├── [tecnoguIA final CORREGIDO.html](https://github.com/user-attachments/files/30314915/tecnoguIA.final.CORREGIDO.html)
 │
 ├── documentos/
-│   ├── 
-│   ├── Manual-de-Usuario-TecnoGuIA.pdf
+│   ├── [Fernandez Macri entrega final diplomatura Austral.docx](https://github.com/user-attachments/files/30315203/Fernandez.Macri.entrega.final.diplomatura.Austral.docx)
+
+│   ├── Manual-de-Usuario-[Manual_breve_de_usuario_TecnoGuIA.pdf](https://github.com/user-attachments/files/30315227/Manual_breve_de_usuario_TecnoGuIA.pdf)
+
 │   ├── Actividad-Catapulta-y-Rubrica.pdf
 │   └── Rubrica-Diplomatura.pdf
 │
